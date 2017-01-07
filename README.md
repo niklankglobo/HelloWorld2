@@ -1,2 +1,2 @@
 # HelloWorld3
-My first intoduction to git hub-01.
+My first introduction to git hub-01.
